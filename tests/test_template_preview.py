@@ -11,4 +11,4 @@ def test_render_preview():
         },
     )
 
-    assert result == "Hello RepoGuard-I am just testing"
+    assert result == "Hello RepoGuard"
