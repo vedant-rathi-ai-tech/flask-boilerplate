@@ -1,4 +1,4 @@
-# Flask Boilerplate
+# Flask Boilerplate Complete Documentation
 
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![Flask](https://img.shields.io/badge/flask-3.x-lightgrey)
