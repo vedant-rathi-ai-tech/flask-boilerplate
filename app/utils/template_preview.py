@@ -1,6 +1,6 @@
 from jinja2.sandbox import SandboxedEnvironment
 
-# RepoGuard webhook test
+# RepoGuard webhook test after changing configuration
 def render_preview(
     template_source: str,
     context: dict,
